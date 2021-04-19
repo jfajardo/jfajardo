@@ -3,9 +3,6 @@
 <a href="https://twitter.com/jfajardus">
   <img align="left" alt="Jonhatan Fajardo | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://instagram.com/jonhatan_fajardo">
-  <img align="left" alt="Jonhatan Fajardo" width="21px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />
-</a>
 
 <br />
 <br />
